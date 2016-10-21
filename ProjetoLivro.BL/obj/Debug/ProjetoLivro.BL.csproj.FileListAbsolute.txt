@@ -1,0 +1,13 @@
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\ProjetoLivro.BL.dll.config
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\ProjetoLivro.BL.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\ProjetoLivro.BL.pdb
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\Castle.Core.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\EntityFramework.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\Moq.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\Castle.Core.xml
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\EntityFramework.xml
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\bin\Debug\Moq.xml
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\obj\Debug\ProjetoLivro.BL.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\ProjetoLivro.BL\ProjetoLivro.BL\obj\Debug\ProjetoLivro.BL.pdb
